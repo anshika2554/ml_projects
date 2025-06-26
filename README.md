@@ -11,7 +11,7 @@ A classic binary classification task using the Titanic dataset from Kaggle. The 
 - **`Techniques:`** Data cleaning, feature engineering, Logistic Regression, Random Forest
 - **`Libraries:`** Pandas, Scikit-learn, Seaborn
 
-🔗 [`titanic_prediction/`](./TitanicPrediction)
+🔗 [`titanic_prediction/`](./Titanic%20Prediction)
 
 
 ### 2. 📧 SMS Spam Detection
