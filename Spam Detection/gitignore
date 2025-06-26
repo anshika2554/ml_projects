@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
