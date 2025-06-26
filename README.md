@@ -47,7 +47,7 @@ An unsupervised learning task where customers are grouped based on behavior for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ml_projects.git
+   git clone https://github.com/anshika2554/ml_projects.git
    cd ml_projects
    ```
 
