@@ -21,7 +21,7 @@ A classic binary classification task using the Titanic dataset from Kaggle. The 
 
 
 
-🔗 [`spam_detection/`](./Spam_Detection)
+🔗 [`spam_detection/`](./Spam%20Detection)
 
 ### 3. 🛍️ Customer Segmentation
 An unsupervised learning task where customers are grouped based on behavior for targeted marketing.
