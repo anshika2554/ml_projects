@@ -41,7 +41,7 @@ This project focuses on building a machine learning model to classify SMS messag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spam-detection.git
+   git clone https://github.com/anshika2554/spam-detection.git
    cd spam-detection
    ```
 
